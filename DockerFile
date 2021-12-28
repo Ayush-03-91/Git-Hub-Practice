@@ -1,0 +1,2 @@
+# use a node base image
+From node:7-onbuild
